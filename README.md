@@ -1,6 +1,6 @@
 # Siec Neuronowa - WTA
 
-**Pseudo kod Metody Widrowa-Hoffa uczenia neuronu**
+**Pseudo kod sieci neuronowej WTA**
 
     class NeuralNetwork
     	Neuronek[] network
